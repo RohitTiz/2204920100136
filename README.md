@@ -20,7 +20,8 @@ This project is a **React-based Analytics Dashboard** that provides real-time in
 _This is a screenshot showing the top users based on the number of comments they have made._
 
 ### 2. **Trending Posts Page**
-![Trending Posts Screenshot](![Screenshot 2025-05-08 122406](https://github.com/user-attachments/assets/1ee8f86e-1d4b-44b7-9db3-11274ba73d22)
+![Trending Posts Screenshot](![Screenshot 2025-05-08 122406](![Screenshot 2025-05-08 122417](https://github.com/user-attachments/assets/37b732af-da20-4bfc-b7cd-deea5538aea6)
+)
 )  
 _This is a screenshot showing the trending posts with the most comments._
 
