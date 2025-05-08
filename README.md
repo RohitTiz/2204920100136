@@ -27,7 +27,8 @@ _This is a screenshot showing the top users based on the number of comments they
 _This is a screenshot showing the trending posts with the most comments._
 
 ### 3. **Feed Page**
-![Feed Screenshot](![Screenshot 2025-05-08 122427](https://github.com/user-attachments/assets/dda8c08f-4bde-443e-ae99-fde4d43c165a)
+![Feed Screenshot](![Screenshot 2025-05-08 122427](![Screenshot 2025-05-08 124133](https://github.com/user-attachments/assets/42a270fa-659f-4b8f-8990-f5eaed2c79d3)
+)
 )  
 _This is a screenshot showing the real-time feed of the latest posts._
 
